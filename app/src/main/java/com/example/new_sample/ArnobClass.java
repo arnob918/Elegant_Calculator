@@ -1,17 +1,17 @@
 package com.example.new_sample;
 
 public class ArnobClass {
-    int b;
+    int c;
 
-    public ArnobClass(int b) {
-        this.b = b;
+    public ArnobClass(int c) {
+        this.c = c;
     }
 
-    public int getB() {
-        return b;
+    public int getC() {
+        return c;
     }
 
-    public void setB(int b) {
-        this.b = b;
+    public void setC(int c) {
+        this.c = c;
     }
 }
