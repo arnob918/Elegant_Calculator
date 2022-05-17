@@ -11,5 +11,5 @@
 /build
 /captures
 .externalNativeBuild
-/.ignored.txt
+ignored.txt
 .cxx
